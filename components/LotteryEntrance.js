@@ -103,6 +103,7 @@ function LotteryEntrance() {
             <br></br>
             Winner: {winner}
             <br></br>
+            WAZZUP BOBO
           </div>
         </div>
       ) : (
